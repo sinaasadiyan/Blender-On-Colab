@@ -16,12 +16,13 @@ https://youtu.be/j14Z-sH5xLU
 
 t4 , p4 , k80 , p100 (best)
 
+
 برای دسترسی به بهترین کار گرافیک :
 
 
 1- open a notebook, in the first cell add !nvidia-smi
 2- run cell to see the result below
-3- if the gpu was Tesla p100 its OK! continuue with the code. if not, goto runtime tab and clicl Factory reset runtime. the notebook will reser. you need to click connect.
+3- if the gpu was Tesla p100 its OK! continuue with the code. if not, goto runtime tab and click Factory reset runtime. the notebook will reser. you need to click connect.
 4- then go to step 1 . do these steps until you get gpu p100. you may need to do this 20 times to get p100 or in the first try!! 
 
 +-----------------------------------------------------------------------------+

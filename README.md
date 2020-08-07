@@ -2,7 +2,7 @@
 Rendering Blender Animations using Google Colab
 
 <p dir = "rtl" >
-توضیحات مربوط به چگونگی رندر گرفتن با استقاده از نرم افزار بلندر در قالب توضیحات در ژوپیتر نوتبوک (فایل با پسوند ipnb  در بالا) و فیلم آموزشی آمده است
+توضیحات مربوط به چگونگی رندر گرفتن با استقاده از نرم افزار بلندر در قالب توضیحات در ژوپیتر نوتبوک (فایل با پسوند ipynb  در بالا) و فیلم آموزشی آمده است
 </p>
 
 
@@ -31,7 +31,7 @@ https://youtu.be/j14Z-sH5xLU
 
 1. run the cell that contains !nvidia-smi.
 2. run cell to see the result below
-3. if the gpu was Tesla p100 its OK! continuue with the code. if not, goto runtime tab and click Factory reset runtime. the notebook will reser. you need to click connect.
+3. if the gpu was Tesla p100 its OK! continue with the code. if not, goto runtime tab and click Factory reset runtime. the notebook will reser. you need to click connect.
 4. then go to step 1 . do these steps until you get gpu p100. you may need to do this 20 times to get p100 or in the first try!! 
 
 <!-- language: lang-none -->

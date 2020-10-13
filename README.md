@@ -1,4 +1,4 @@
-# BlenderOnColab
+# Blender On Colab
 Rendering Blender Animations using Google Colab
 
 <p dir = "rtl" >

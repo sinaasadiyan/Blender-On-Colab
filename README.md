@@ -1,7 +1,9 @@
 # Blender On Colab
 Rendering Blender Animations using Google Colab
 
-Updated in 2022-03-10, Everything works Properly !
+-------------------------------------------------
+Note : Updated in 2022-03-10, Everything works Properly !
+-------------------------------------------------
 
 <p dir = "rtl" >
 توضیحات مربوط به چگونگی رندر گرفتن با استقاده از نرم افزار بلندر در قالب توضیحات در ژوپیتر نوتبوک (فایل با پسوند ipynb  در بالا) و فیلم آموزشی آمده است
